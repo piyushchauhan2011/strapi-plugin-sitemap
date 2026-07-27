@@ -19,12 +19,12 @@
 </p>
 </div>
 
-> [!IMPORTANT]  
-> For Strapi v5, please use the Webtools plugin and it's Sitemap addon.
+> [!CAUTION]
+> Strapi v4 is EOL and therefor this plugin is officially archived.
+> 
+> The plugin and all it's functionalities have been ported to Webtools for Strapi v5.
 > 
 > Read more about this here: https://docs.pluginpal.io/webtools/addons
-> 
-> If you're looking for a Sitemap plugin for Strapi v4, you can read on below.
 
 ## ✨ Features
 
